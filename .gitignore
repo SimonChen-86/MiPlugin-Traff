@@ -1,0 +1,27 @@
+# 编译临时与中间文件
+*.obj
+*.exp
+*.lib
+*.res
+*.pdb
+*.idb
+*.ilk
+
+# 构建输出目录 (保留 release 中的 dll 和说明，过滤 build 临时缓存)
+build/
+.vs/
+.vscode/
+.idea/
+x64/
+x86/
+Debug/
+Release/
+
+# 运行临时数据与配置
+*.ini
+*.log
+__pycache__/
+*.pyc
+
+# 内部备份与分析文档
+AI-Brian/

@@ -2,6 +2,8 @@
 
 > ⚡ **TrafficMonitor 小米智能插座/插线板电力监控插件**  
 > 专为 Windows 任务栏系统监控神器 [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 定制开发的高性能原生 C++ 单文件 DLL 插件。基于局域网 miIO 加密协议，实现实时功率、工作电流、内部温度及开关状态的毫秒级异步监控。
+> 为什么要开发？ 因为官方的推荐插件似乎失效了我试了好几次都不行所以就有这个这个小插件。
+> 对于有家庭服务器和小米插座的用户，在自己的笔记本电脑上可以实施看到服务器功耗（或者其他设备功耗），能够即使调整节约很多电能。
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078d7.svg)](https://microsoft.com)
